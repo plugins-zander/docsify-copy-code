@@ -1,3 +1,6 @@
+> From <https://www.jsdelivr.com/package/npm/docsify-copy-code> v2.1.0
+
+
 # docsify-copy-code
 
 [![NPM](https://img.shields.io/npm/v/docsify-copy-code.svg?style=flat-square)](https://www.npmjs.com/package/docsify-copy-code)
